@@ -68,5 +68,4 @@ Here are some ideas eto get you started:
 #### Cryptocurrency
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white) ![Stellar](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)
 
-####Contact
 You can reach me on Gmail pedro.paquete77@gmail.com
